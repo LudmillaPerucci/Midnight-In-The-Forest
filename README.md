@@ -1,6 +1,6 @@
-# Midnight-in-the-forest
-The first game i have made, it was make for my Final Paper About hearing Accessibility in 3D games in Fatec Guarulhos.
+# Midnight in the Forest
 
-Feel free to download and play :)
+"Midnight in the Forest" foi o primeiro jogo criado por mim, Ludmilla Perucci, e pelo meu colega de TCC, Daniel Sérgio, como parte do nosso Trabalho de Conclusão de Curso na Fatec Guarulhos. O tema abordado no trabalho é a **Acessibilidade Auditiva em Jogos 3D**.
 
-To know more about the Final Paper go to: Coming soon...
+🎮 **Sinta-se à vontade para baixar e jogar!**  
+
